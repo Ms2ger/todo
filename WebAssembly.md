@@ -1,1 +1,2 @@
 - https://github.com/WebAssembly/spec/pull/711#pullrequestreview-128755936
+- Upload more patches to bugzilla
