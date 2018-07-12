@@ -1,4 +1,2 @@
 - https://github.com/WebAssembly/spec/pull/711#pullrequestreview-128755936
-- https://bugzilla.mozilla.org/show_bug.cgi?id=1474569
-- https://bugzilla.mozilla.org/show_bug.cgi?id=1474581
 - Upload tests for review

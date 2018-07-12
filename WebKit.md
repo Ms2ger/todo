@@ -1,7 +1,4 @@
 * Land https://github.com/WebPlatformForEmbedded/WPEWebKit/pull/502
-* Land https://bugs.webkit.org/show_bug.cgi?id=174816
+* Rewrite https://bugs.webkit.org/show_bug.cgi?id=174816
 * Review: texImage2D(..., source=null) => throws?
-* Implement texImage2D(..., source=ImageBitmap)
-  - Figure out the test failure
-  - Put patch up for review
 * Backport texImage2D(..., source=ImageBitmap) to wpe-2017
