@@ -1,3 +1,2 @@
 - https://github.com/WebAssembly/spec/pull/711#pullrequestreview-128755936
 - Upload tests for review
-- https://github.com/WebAssembly/spec/pull/819#issuecomment-405934606
