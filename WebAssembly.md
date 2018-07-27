@@ -1,2 +1,7 @@
 - https://github.com/WebAssembly/spec/pull/711#pullrequestreview-128755936
-- Upload tests for review
+- More tests
+- Get rid of the weird mathematics codepoints in the spec
+- Contrast Intl.Locale @@toStringTag with WebIDL namespaced interface names
+  - "The class string of an interface with the [LegacyNamespace] extended attribute is the concatenation of the class string of the namespace, ".", and the class string that the interface would otherwise have without this extended attribute." => a "class string" is a property of a JS object, which an interface isn't
+  - Check tests
+  - @@toStringTag on objects, not prototypes?
