@@ -5,3 +5,4 @@
   - "The class string of an interface with the [LegacyNamespace] extended attribute is the concatenation of the class string of the namespace, ".", and the class string that the interface would otherwise have without this extended attribute." => a "class string" is a property of a JS object, which an interface isn't
   - Check tests
   - @@toStringTag on objects, not prototypes?
+- Land https://bugzilla.mozilla.org/show_bug.cgi?id=1480454 and https://bugzilla.mozilla.org/show_bug.cgi?id=1478713
