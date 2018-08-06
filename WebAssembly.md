@@ -6,3 +6,5 @@
   - Check tests
   - @@toStringTag on objects, not prototypes?
 - Land https://bugzilla.mozilla.org/show_bug.cgi?id=1480454 and https://bugzilla.mozilla.org/show_bug.cgi?id=1478713
+- Periodically upstream jsapi tests into the Wasm spec repository
+- Review browsers' repositories for upstreamable tests
