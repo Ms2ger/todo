@@ -1,7 +1,5 @@
 - https://github.com/WebAssembly/spec/pull/711#pullrequestreview-128755936
 - More tests
 - Get rid of the weird mathematics codepoints in the spec
-- Contrast Intl.Locale @@toStringTag with WebIDL namespaced interface names
-  - Check tests
 - Periodically upstream jsapi tests into the Wasm spec repository
 - Review browsers' repositories for upstreamable tests
