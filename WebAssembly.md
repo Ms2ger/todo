@@ -6,3 +6,4 @@
 - Periodically upstream jsapi tests into the Wasm spec repository
 - Review browsers' repositories for upstreamable tests
 - https://bugzilla.mozilla.org/show_bug.cgi?id=1480725
+- Ensure new W.Instance() and W.instantiate() have equivalent tests.
