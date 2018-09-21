@@ -5,6 +5,11 @@
 - Get rid of the weird mathematics codepoints in the spec
 - Periodically upstream jsapi tests into the Wasm spec repository
 - Review browsers' repositories for upstreamable tests
-- https://bugzilla.mozilla.org/show_bug.cgi?id=1480725
-- Ensure new W.Instance() and W.instantiate() have equivalent tests.
 - File bugs on non-SM engines after upstreaming into spec repo
+- https://github.com/WebAssembly/spec/pull/877
+  * Maybe more tests for maximum?
+- https://github.com/WebAssembly/spec/issues/596
+- web-api tests
+  * Should go into wpt only
+  * Remove any tests in the spec repo
+  * Missing Content-Type header
