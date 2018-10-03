@@ -13,4 +13,5 @@
   * Should go into wpt only
   * Remove any tests in the spec repo
   * Missing Content-Type header
+  * Serializing IDB
 - Re-review https://github.com/WebAssembly/spec/pull/873
