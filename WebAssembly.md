@@ -13,6 +13,6 @@
   * Missing Content-Type header
   * Serializing IDB
 - \[!!!] Re-review https://github.com/WebAssembly/spec/pull/873
-- https://github.com/webpack/webpack/issues/8144
-- https://github.com/WebAssembly/spec/pull/883: check import into UA
+- https://github.com/webpack/webpack/issues/8144 (delayed)
 - https://github.com/WebAssembly/spec/issues/838: write PR
+- https://github.com/WebAssembly/spec/issues/757: write test
