@@ -1,3 +1,4 @@
+- https://bugzilla.mozilla.org/show_bug.cgi?id=1506352: test updates
 - https://github.com/WebAssembly/spec/pull/711#pullrequestreview-128755936
   * Looks like https://github.com/web-platform-tests/wpt/pull/12488 covers this neatly.
 - More tests
@@ -17,3 +18,4 @@
 - https://github.com/webpack/webpack/issues/8144 (delayed)
 - https://github.com/WebAssembly/spec/issues/838: write PR
 - https://github.com/WebAssembly/spec/issues/757: write test
+- https://github.com/WebAssembly/spec/pull/903: is test/harness/ still used?
