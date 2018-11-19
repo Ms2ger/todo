@@ -1,4 +1,3 @@
-- https://bugzilla.mozilla.org/show_bug.cgi?id=1506352: test updates
 - https://github.com/WebAssembly/spec/pull/711#pullrequestreview-128755936
   * Looks like https://github.com/web-platform-tests/wpt/pull/12488 covers this neatly.
 - More tests
