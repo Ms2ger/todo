@@ -7,14 +7,10 @@
 - Periodically upstream jsapi tests into the Wasm spec repository
 - Review browsers' repositories for upstreamable tests
 - File bugs on non-SM engines after upstreaming into spec repo
-- https://github.com/WebAssembly/spec/issues/596
-  * Made obsolete by https://github.com/WebAssembly/spec/pull/883
 - web-api tests
   * Should go into wpt only
-  * Remove any tests in the spec repo
   * Missing Content-Type header
 - \[!!!] Re-review https://github.com/WebAssembly/spec/pull/873
 - https://github.com/webpack/webpack/issues/8144 (delayed)
-- https://github.com/WebAssembly/spec/issues/838: write PR
-- https://github.com/WebAssembly/spec/issues/757: write test
 - https://github.com/WebAssembly/spec/pull/903: is test/harness/ still used?
+- Follow up on https://github.com/WebAssembly/spec/pull/416 (wast.js)
