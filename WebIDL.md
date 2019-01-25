@@ -1,0 +1,7 @@
+- Test named property stuff with Symbols / https://github.com/heycam/webidl/issues/175
+- https://github.com/heycam/webidl/issues/630
+- https://github.com/heycam/webidl/issues/490
+- https://github.com/WICG/kv-storage/issues/46
+- https://github.com/heycam/webidl/pulls/Ms2ger
+- https://github.com/heycam/webidl/pulls/littledan
+- https://github.com/tc39/proposal-temporal/issues/98

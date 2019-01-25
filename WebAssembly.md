@@ -1,5 +1,3 @@
-- https://github.com/WebAssembly/spec/pull/711#pullrequestreview-128755936
-  * Looks like https://github.com/web-platform-tests/wpt/pull/12488 covers this neatly.
 - More tests
   * Immediately after a WebAssembly grow_memory instruction executes, perform the following steps:
   * Passing other kinds of BufferSource
@@ -13,4 +11,4 @@
 - \[!!!] Re-review https://github.com/WebAssembly/spec/pull/873
 - https://github.com/webpack/webpack/issues/8144 (delayed)
 - https://github.com/WebAssembly/spec/pull/903: is test/harness/ still used?
-- Follow up on https://github.com/WebAssembly/spec/pull/416 (wast.js)
+- https://bugzilla.mozilla.org/show_bug.cgi?id=1519901
