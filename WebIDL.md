@@ -5,3 +5,4 @@
 - https://github.com/heycam/webidl/pulls/Ms2ger
 - https://github.com/heycam/webidl/pulls/littledan
 - https://github.com/tc39/proposal-temporal/issues/98
+- https://github.com/web-platform-tests/wpt/issues/7164
