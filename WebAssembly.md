@@ -12,3 +12,7 @@
 - https://github.com/webpack/webpack/issues/8144 (delayed)
 - https://github.com/WebAssembly/spec/pull/903: is test/harness/ still used?
 - https://bugzilla.mozilla.org/show_bug.cgi?id=1519901
+- https://github.com/web-platform-tests/wpt/pull/15185
+- https://github.com/WebAssembly/threads / wpt
+- https://github.com/WebAssembly/threads/pull/118
+- https://bugzilla.mozilla.org/show_bug.cgi?id=1515039 / slow jstests
