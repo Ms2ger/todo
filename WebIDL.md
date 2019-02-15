@@ -5,7 +5,6 @@
 - https://github.com/heycam/webidl/pulls/Ms2ger
 - https://github.com/heycam/webidl/pulls/littledan
 - https://github.com/tc39/proposal-temporal/issues/98
-- https://github.com/web-platform-tests/wpt/issues/7164 / idlharness.js, promises, throwing
 - https://github.com/whatwg/html/issues/4342 / tasks and realms
 - https://github.com/whatwg/streams/issues/963 / Use WebIDL
 - platform-brand / https://github.com/heycam/webidl/pull/595
@@ -19,4 +18,5 @@
 - https://github.com/heycam/webidl/pull/626 NPVA for Window - address review
 - https://github.com/heycam/webidl/issues/607 / Named properties object / named property visibility algorithm with property on Window.prototype 
 - https://github.com/heycam/webidl/pull/new/PerformPromiseThen
-
+- https://github.com/heycam/webidl/issues/592 / modules
+- https://www.w3.org/Bugs/Public/show_bug.cgi?id=27301 / this value

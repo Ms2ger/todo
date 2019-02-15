@@ -16,3 +16,5 @@
 - https://github.com/WebAssembly/threads / wpt
 - https://github.com/WebAssembly/threads/pull/118
 - https://bugzilla.mozilla.org/show_bug.cgi?id=1515039 / slow jstests
+- Write tests for https://github.com/WebAssembly/esm-integration/pull/21
+- Review https://github.com/gsathya/proposal-weakrefs/pull/1 and https://github.com/guybedford/proposal-top-level-await/pull/1
