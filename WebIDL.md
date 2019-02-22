@@ -20,3 +20,6 @@
 - https://github.com/heycam/webidl/pull/new/PerformPromiseThen
 - https://github.com/heycam/webidl/issues/592 / modules
 - https://www.w3.org/Bugs/Public/show_bug.cgi?id=27301 / this value
+- https://github.com/heycam/webidl/issues/645 / LegacyNamespace+WindowAlias
+- Review "**inherited interfaces**"
+- Review define the attributes/operations / https://github.com/heycam/webidl/pull/635#discussion_r256600690
