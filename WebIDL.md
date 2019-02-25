@@ -23,3 +23,8 @@
 - https://github.com/heycam/webidl/issues/645 / LegacyNamespace+WindowAlias
 - Review "**inherited interfaces**"
 - Review define the attributes/operations / https://github.com/heycam/webidl/pull/635#discussion_r256600690
+- Properly define "considered to implement the interface" #es-user-objects
+- #es-maplike / ... `<var ignore>A</var>`
+* Eradicate all remaining usage of the legacy term "ECMAScript global environment".
+* Update https://html.spec.whatwg.org/#relevant to make relevant Realm defined in terms of [[Realm]] and the other two "relevants" defined in terms of relevant Realm
+  * Optionally, move the definition of relevant Realm to Web IDL? Or maybe that won't work out so well in the long term given that eventually we'll want relevant Realm to apply to all ES objects as well?
