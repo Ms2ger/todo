@@ -1,5 +1,5 @@
 - Test named property stuff with Symbols / https://github.com/heycam/webidl/issues/175
-- https://github.com/heycam/webidl/issues/630
+- https://github.com/heycam/webidl/issues/630 /  Consider removing call to named property setter in legacy platform object [[Set]]
 - https://github.com/heycam/webidl/issues/490 / Promises
 - https://github.com/WICG/kv-storage/issues/46
 - https://github.com/heycam/webidl/pulls/Ms2ger
@@ -11,20 +11,19 @@
 - https://github.com/tc39/ecma262/pull/1438 / https://github.com/heycam/webidl/pull/601
 - https://github.com/heycam/webidl/issues/636 / constructor()
 - https://github.com/web-platform-tests/wpt/pull/14841 / NamedConstructor
-- https://github.com/heycam/webidl/issues/540 / Is a subclass still a platform object
-- https://github.com/heycam/webidl/issues/206 / State the associated realm
 - https://www.w3.org/Bugs/Public/buglist.cgi?component=WebIDL&product=WebAppsWG&resolution=---
 - https://github.com/heycam/webidl/issues/473 / Order of includes statements
 - https://github.com/heycam/webidl/pull/626 NPVA for Window - address review
 - https://github.com/heycam/webidl/issues/607 / Named properties object / named property visibility algorithm with property on Window.prototype 
 - https://github.com/heycam/webidl/pull/new/PerformPromiseThen
 - https://github.com/heycam/webidl/issues/592 / modules
-- https://www.w3.org/Bugs/Public/show_bug.cgi?id=27301 / this value
-- https://github.com/heycam/webidl/issues/645 / LegacyNamespace+WindowAlias
-- Review "**inherited interfaces**"
+  - https://github.com/tc39/proposal-javascript-standard-library/pull/44
+- Review "**inherited interfaces**" / https://github.com/whatwg/infra/issues/238
 - Review define the attributes/operations / https://github.com/heycam/webidl/pull/635#discussion_r256600690
-- Properly define "considered to implement the interface" #es-user-objects
-- #es-maplike / ... `<var ignore>A</var>`
+- #es-maplike / ... `<var ignore>A</var>` (imperatively define maplike members)
 * Eradicate all remaining usage of the legacy term "ECMAScript global environment".
 * Update https://html.spec.whatwg.org/#relevant to make relevant Realm defined in terms of [[Realm]] and the other two "relevants" defined in terms of relevant Realm
   * Optionally, move the definition of relevant Realm to Web IDL? Or maybe that won't work out so well in the long term given that eventually we'll want relevant Realm to apply to all ES objects as well?
+- https://github.com/heycam/webidl/issues/659 / Referencing "implements"
+- File bugs on https://github.com/heycam/webidl/pull/635 / new object realms
+- https://github.com/heycam/webidl/issues/656 / WindowProxy

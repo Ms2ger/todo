@@ -11,7 +11,7 @@
 - \[!!!] Re-review https://github.com/WebAssembly/spec/pull/873
 - https://github.com/webpack/webpack/issues/8144 (delayed)
 - https://github.com/WebAssembly/spec/pull/903: is test/harness/ still used?
-- https://bugzilla.mozilla.org/show_bug.cgi?id=1519901
+- https://bugzilla.mozilla.org/show_bug.cgi?id=1519901 /  Move core wasm tests to jstests/wpt
 - https://github.com/web-platform-tests/wpt/pull/15185
 - https://github.com/WebAssembly/threads / wpt
 - https://github.com/WebAssembly/threads/pull/118
