@@ -24,4 +24,3 @@
 - https://github.com/heycam/webidl/issues/656 / WindowProxy
 - Add tests for [[Get]] semantics for [PutForwards]
 - Platform objects / https://github.com/whatwg/html/issues/4418 / https://github.com/heycam/webidl/issues/680
-- Land https://github.com/heycam/webidl/pull/679 / Correct the 'indexed getter' cross-reference
