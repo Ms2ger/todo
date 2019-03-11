@@ -10,20 +10,18 @@
 - platform-brand / https://github.com/heycam/webidl/pull/595
 - https://github.com/tc39/ecma262/pull/1438 / https://github.com/heycam/webidl/pull/601
 - https://github.com/heycam/webidl/issues/636 / constructor()
-- https://github.com/web-platform-tests/wpt/pull/14841 / NamedConstructor
 - https://www.w3.org/Bugs/Public/buglist.cgi?component=WebIDL&product=WebAppsWG&resolution=---
 - https://github.com/heycam/webidl/issues/473 / Order of includes statements
 - https://github.com/heycam/webidl/pull/626 NPVA for Window - address review
 - https://github.com/heycam/webidl/issues/607 / Named properties object / named property visibility algorithm with property on Window.prototype 
 - https://github.com/heycam/webidl/pull/new/PerformPromiseThen
-- https://github.com/heycam/webidl/issues/592 / modules
-  - https://github.com/tc39/proposal-javascript-standard-library/pull/44
 - Review "**inherited interfaces**" / https://github.com/whatwg/infra/issues/238
 - Review define the attributes/operations / https://github.com/heycam/webidl/pull/635#discussion_r256600690
 - #es-maplike / ... `<var ignore>A</var>` (imperatively define maplike members)
-* Eradicate all remaining usage of the legacy term "ECMAScript global environment".
-* Update https://html.spec.whatwg.org/#relevant to make relevant Realm defined in terms of [[Realm]] and the other two "relevants" defined in terms of relevant Realm
-  * Optionally, move the definition of relevant Realm to Web IDL? Or maybe that won't work out so well in the long term given that eventually we'll want relevant Realm to apply to all ES objects as well?
+* Optionally, move the definition of relevant Realm to Web IDL? Or maybe that won't work out so well in the long term given that eventually we'll want relevant Realm to apply to all ES objects as well?
 - https://github.com/heycam/webidl/issues/659 / Referencing "implements"
 - File bugs on https://github.com/heycam/webidl/pull/635 / new object realms
 - https://github.com/heycam/webidl/issues/656 / WindowProxy
+- Add tests for [[Get]] semantics for [PutForwards]
+- Platform objects / https://github.com/whatwg/html/issues/4418 / https://github.com/heycam/webidl/issues/680
+- Land https://github.com/heycam/webidl/pull/679 / Correct the 'indexed getter' cross-reference
