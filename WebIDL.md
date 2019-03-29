@@ -9,7 +9,6 @@
 - https://github.com/whatwg/streams/issues/963 / Use WebIDL
 - platform-brand / https://github.com/heycam/webidl/pull/595
 - https://github.com/tc39/ecma262/pull/1438 / https://github.com/heycam/webidl/pull/601
-- https://github.com/heycam/webidl/issues/636 / constructor()
 - https://www.w3.org/Bugs/Public/buglist.cgi?component=WebIDL&product=WebAppsWG&resolution=---
 - https://github.com/heycam/webidl/issues/473 / Order of includes statements
 - https://github.com/heycam/webidl/pull/626 NPVA for Window - address review
