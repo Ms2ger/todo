@@ -23,3 +23,5 @@
 - https://github.com/heycam/webidl/issues/656 / WindowProxy
 - Add tests for [[Get]] semantics for [PutForwards]
 - Platform objects / https://github.com/whatwg/html/issues/4418 / https://github.com/heycam/webidl/issues/680
+- https://tc39.github.io/proposal-temporal/spec-rendered
+- https://github.com/web-platform-tests/wpt/pull/6786 / Webidl legacy platform object tests
