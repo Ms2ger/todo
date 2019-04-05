@@ -25,3 +25,8 @@
 - Platform objects / https://github.com/whatwg/html/issues/4418 / https://github.com/heycam/webidl/issues/680
 - https://tc39.github.io/proposal-temporal/spec-rendered
 - https://github.com/web-platform-tests/wpt/pull/6786 / Webidl legacy platform object tests
+- https://github.com/web-platform-tests/wpt/issues/16267 / idlharness does not enforce constraints on nullable unions
+- https://github.com/heycam/webidl/pull/706 / Remove a check for array index in [[Set]]
+- https://github.com/web-platform-tests/wpt/pull/16278 / https://chromium-review.googlesource.com/c/chromium/src/+/660497/ / .value = idx
+- https://bugzilla.mozilla.org/show_bug.cgi?id=1414372 / Add support for WebIDL mixins
+
