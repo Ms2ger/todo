@@ -1,7 +1,6 @@
 - Test named property stuff with Symbols / https://github.com/heycam/webidl/issues/175
 - https://github.com/heycam/webidl/issues/630 /  Consider removing call to named property setter in legacy platform object [[Set]]
 - https://github.com/heycam/webidl/issues/490 / Promises
-- https://github.com/WICG/kv-storage/issues/46
 - https://github.com/heycam/webidl/pulls/Ms2ger
 - https://github.com/heycam/webidl/pulls/littledan
 - https://github.com/tc39/proposal-temporal/issues/98
@@ -29,4 +28,10 @@
 - https://github.com/heycam/webidl/pull/706 / Remove a check for array index in [[Set]]
 - https://github.com/web-platform-tests/wpt/pull/16278 / https://chromium-review.googlesource.com/c/chromium/src/+/660497/ / .value = idx
 - https://bugzilla.mozilla.org/show_bug.cgi?id=1414372 / Add support for WebIDL mixins
-
+- https://github.com/heycam/webidl/pull/675 / Modules
+  - https://github.com/plinss/widlparser
+  - https://github.com/w3c/webidl2.js/pull/301
+  - https://github.com/WICG/kv-storage/issues/46
+- https://github.com/whatwg/encoding/pull/175 / IDL this
+- https://github.com/w3c/wake-lock/pull/172 / confusion FrozenArray
+- https://github.com/tc39/proposal-temporal/issues/129 / Intl

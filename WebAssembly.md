@@ -20,3 +20,9 @@
 - Review https://github.com/gsathya/proposal-weakrefs/pull/1 and https://github.com/guybedford/proposal-top-level-await/pull/1
 - https://github.com/WebAssembly/multi-value/pull/8
 - https://github.com/WebAssembly/host-bindings/pull/21
+- https://github.com/heycam/webidl/issues/716
+- https://github.com/WebAssembly/webidl-bindings/issues/27
+- https://github.com/web-platform-tests/wpt/pull/16321
+- https://github.com/WebAssembly/spec/issues/985
+- https://github.com/web-platform-tests/wpt/pull/16313
+- https://github.com/WebAssembly/spec/pull/745
