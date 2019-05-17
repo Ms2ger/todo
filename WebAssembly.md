@@ -26,7 +26,6 @@
 - https://github.com/WebAssembly/spec/issues/985
 - https://github.com/web-platform-tests/wpt/pull/16313
 - https://github.com/WebAssembly/spec/pull/745
-- https://github.com/heycam/webidl/issues/716
 - TLA
   * https://github.com/tc39/proposal-top-level-await/issues/63
     * update HTML
@@ -35,3 +34,4 @@
   * Update Service Workers
   * https://github.com/tc39/proposal-top-level-await/issues/64
   * Tests
+- https://github.com/whatwg/html/issues/4601#issuecomment-491192671 / DetachArrayBuffer
