@@ -35,3 +35,6 @@
   * https://github.com/tc39/proposal-top-level-await/issues/64
   * Tests
 - https://github.com/whatwg/html/issues/4601#issuecomment-491192671 / DetachArrayBuffer
+- https://github.com/nodejs/ecmascript-modules/pull/46 / wasm modules
+- Update https://github.com/WebAssembly/esm-integration to TLA changes
+- Write test for load event: https://github.com/WebAssembly/spec/pull/745#issuecomment-493627056
