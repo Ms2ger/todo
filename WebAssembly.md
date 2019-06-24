@@ -18,7 +18,7 @@
 - https://bugzilla.mozilla.org/show_bug.cgi?id=1515039 / slow jstests
 - Write tests for https://github.com/WebAssembly/esm-integration/pull/21
 - Review https://github.com/gsathya/proposal-weakrefs/pull/1 and https://github.com/guybedford/proposal-top-level-await/pull/1
-- https://github.com/WebAssembly/multi-value/pull/8
+- https://github.com/WebAssembly/multi-value/pull/8 / JS to wasm / @@iterator
 - https://github.com/WebAssembly/host-bindings/pull/21
 - https://github.com/heycam/webidl/issues/716
 - https://github.com/WebAssembly/webidl-bindings/issues/27
@@ -32,9 +32,7 @@
     * Upon settling, decrement the no-document.write counter
     * Synchronously, reset currentScript
   * Update Service Workers
-  * https://github.com/tc39/proposal-top-level-await/issues/64
   * Tests
 - https://github.com/whatwg/html/issues/4601#issuecomment-491192671 / DetachArrayBuffer
 - https://github.com/nodejs/ecmascript-modules/pull/46 / wasm modules
-- Update https://github.com/WebAssembly/esm-integration to TLA changes
 - Write test for load event: https://github.com/WebAssembly/spec/pull/745#issuecomment-493627056

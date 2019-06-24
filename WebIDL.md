@@ -36,3 +36,4 @@
 - https://github.com/w3c/wake-lock/pull/172 / confusion FrozenArray
 - https://github.com/tc39/proposal-temporal/issues/129 / Intl
 - Fix exception in arraybuffer/detach
+- https://github.com/w3ctag/design-principles/issues/99 / partial in tag
