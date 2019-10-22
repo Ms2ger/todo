@@ -1,5 +1,4 @@
 - https://github.com/web-platform-tests/wpt/issues/10790 / -manual.window.js does not work with manifests
-- https://github.com/w3c/web-platform-tests/pull/1577 / matches()
 - https://github.com/w3c/web-platform-tests/pull/9692 / README
 - https://github.com/w3c/wptserve/pull/115 / dir listing
 - Write tests for
@@ -7,3 +6,6 @@
   - https://bugzilla.mozilla.org/show_bug.cgi?id=900724 form-association
   - https://bugzilla.mozilla.org/show_bug.cgi?id=819051 setRequestHeader
 - Fix https://bugzilla.mozilla.org/show_bug.cgi?id=929890 media.preload
+- https://github.com/web-platform-tests/rfcs/pull/32 - async setup
+- https://github.com/web-platform-tests/wpt/pull/19054 - assert_throws documentation
+- https://github.com/web-platform-tests/rfcs/pull/15 - reftests

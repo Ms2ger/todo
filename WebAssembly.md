@@ -1,3 +1,13 @@
+- JS-BigInt-integration
+  - Follow up on https://github.com/WebAssembly/JS-BigInt-integration/pull/19
+  - More tests for https://github.com/WebAssembly/JS-BigInt-integration
+  - Rebase JS-BigInt-integration
+  - https://github.com/WebAssembly/JS-BigInt-integration/issues/17
+- TLA - https://github.com/w3c/ServiceWorker/issues/1407
+- Exception handling - https://github.com/WebAssembly/exception-handling/pull/86
+- read the imports / globals - https://github.com/WebAssembly/spec/issues/1095
+- Tests for https://github.com/WebAssembly/multi-value/pull/20
+
 - More tests
   * Immediately after a WebAssembly grow_memory instruction executes, perform the following steps:
   * Passing other kinds of BufferSource
@@ -14,7 +24,7 @@
 - https://bugzilla.mozilla.org/show_bug.cgi?id=1519901 /  Move core wasm tests to jstests/wpt
 - https://github.com/web-platform-tests/wpt/pull/15185
 - https://github.com/WebAssembly/threads / wpt
-- https://github.com/WebAssembly/threads/pull/118
+- https://github.com/WebAssembly/threads/pull/118 / object caching / tests?
 - https://bugzilla.mozilla.org/show_bug.cgi?id=1515039 / slow jstests
 - Write tests for https://github.com/WebAssembly/esm-integration/pull/21
 - Review https://github.com/gsathya/proposal-weakrefs/pull/1 and https://github.com/guybedford/proposal-top-level-await/pull/1

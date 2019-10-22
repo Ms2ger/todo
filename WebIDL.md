@@ -37,3 +37,7 @@
 - https://github.com/tc39/proposal-temporal/issues/129 / Intl
 - Fix exception in arraybuffer/detach
 - https://github.com/w3ctag/design-principles/issues/99 / partial in tag
+- https://github.com/heycam/webidl/issues/810 - FrozenArray
+- https://github.com/heycam/webidl/issues/698 - interface objects constructors
+- https://github.com/heycam/webidl/issues/184 - partial enums
+- https://github.com/heycam/webidl/pull/791 - upon settling
