@@ -9,3 +9,4 @@
 - https://github.com/web-platform-tests/rfcs/pull/32 - async setup
 - https://github.com/web-platform-tests/wpt/pull/19054 - assert_throws documentation
 - https://github.com/web-platform-tests/rfcs/pull/15 - reftests
+- https://github.com/web-platform-tests/wpt/pull/19477

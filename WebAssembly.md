@@ -7,6 +7,9 @@
 - Exception handling - https://github.com/WebAssembly/exception-handling/pull/86
 - read the imports / globals - https://github.com/WebAssembly/spec/issues/1095
 - Tests for https://github.com/WebAssembly/multi-value/pull/20
+- js-api/web-api updates for https://github.com/heycam/webidl/issues/730#issuecomment-522921326
+- https://github.com/WebAssembly/js-types
+- https://github.com/tc39/proposal-top-level-await/pull/133
 
 - More tests
   * Immediately after a WebAssembly grow_memory instruction executes, perform the following steps:
